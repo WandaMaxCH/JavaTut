@@ -14,12 +14,12 @@ public class Exp {
 		myNum = 20;
 		System.out.println(myNum);
 		final int Number = 18;
-		// Number = 32;
+		// Number = 36;
 		System.out.println("Gruzi" + name);
 		String lastname = "andra";
 		String fullname = name + lastname;
 		System.out.println(fullname);
-		int x = 34;
+		int x = 94;
 		int y = 35;
 		System.out.println(x + y);
 		int c = 2, v = 3, b = 4;
