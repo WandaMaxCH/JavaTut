@@ -27,6 +27,8 @@ public class Exp {
 		int j, k, l;
 		j = k = l = 45;
 		System.out.println(j + k + l);
+		byte hola = 109;
+		System.out.println(hola);
 
 	}
 
