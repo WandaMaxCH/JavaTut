@@ -29,6 +29,8 @@ public class Exp {
 		System.out.println(j + k + l);
 		byte hola = 109;
 		System.out.println(hola);
+		short tNum = 1999;
+		System.out.println(tNum);
 
 	}
 
