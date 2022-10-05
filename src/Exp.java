@@ -31,7 +31,16 @@ public class Exp {
 		System.out.println(hola);
 		short tNum = 1999;
 		System.out.println(tNum);
-
+		float mfn = 34f;
+		System.out.println(mfn);
+		double dmn = 78;
+		System.out.println(dmn);
+		double f1 = 45e6D;
+		double d1 = 85e6d;
+		System.out.println(f1);
+		System.out.println(d1);
+		
+		
 	}
 
 }
