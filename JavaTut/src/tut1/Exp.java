@@ -67,9 +67,23 @@ public class Exp {
 		int fiz = 5;
 		int zif = 7;
 		System.out.println(fiz < zif);
-		String txt = "gfuherfebhrfbehuzk";
-		//System.out.println(lenght of txt is:	);
-
+		String text = "gfuherfebhrfbehuzk";
+		System.out.println("length of text is: " + text.length());
+		String txt = "ello 'how' you do???";
+		System.out.println(txt.indexOf("how"));
+		String firstName =  "Johny";
+		String lastName = "Depp";
+		System.out.println(firstName + " " + lastName);
+		System.out.println(firstName.concat(lastName));
+		String de = "34";
+		String ed = "43";
+		String ert = "de + ed";
+		System.out.println(ert);
+		String phrase = "I \"love\" sushi";
+		System.out.println(phrase);
+		Math.max(49, 30);
+		
+		
 	}
 
 }
