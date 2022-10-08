@@ -38,6 +38,12 @@ public class Exp {
 		double d1 = 85e6d;
 		System.out.println(f1);
 		System.out.println(d1);
+		boolean IsSushiAwsome = true;
+		boolean IsTheEarthFlat = false;
+		System.out.println(IsSushiAwsome);
+		System.out.println(IsTheEarthFlat);
+		char myGrade = 'B';
+		System.out.println(myGrade);
 
 	}
 
