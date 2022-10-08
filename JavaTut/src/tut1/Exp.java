@@ -44,6 +44,31 @@ public class Exp {
 		System.out.println(IsTheEarthFlat);
 		char myGrade = 'B';
 		System.out.println(myGrade);
+		char myVar1 = 84, myVar2 = 54, myVar3 = 1;
+		System.out.println(myVar1);
+		System.out.println(myVar2);
+		System.out.println(myVar3);
+		String dialog = "sup???";
+		System.out.println(dialog);
+		int myInt = 4;
+		double myDouble = myInt;
+		System.out.println(myInt);
+		System.out.println(myDouble);
+		double theDouble = 36.96;
+		int theInt = (int) theDouble;
+		System.out.println(theDouble);
+		System.out.println(theInt);
+		int sum1 = 100 + 50;
+		int sum2 = sum1 + 80;
+		System.out.println(sum1 + sum2);
+		int eix = 10;
+		eix += 5;
+		System.out.println(eix);
+		int fiz = 5;
+		int zif = 7;
+		System.out.println(fiz < zif);
+		String txt = "gfuherfebhrfbehuzk";
+		//System.out.println(lenght of txt is:	);
 
 	}
 
