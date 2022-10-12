@@ -81,7 +81,11 @@ public class Exp {
 		System.out.println(ert);
 		String phrase = "I \"love\" sushi";
 		System.out.println(phrase);
-		Math.max(49, 30);
+		System.out.println(Math.max(49, 30));
+		System.out.println(Math.abs(-8.6));
+		System.out.println(Math.random());
+		int rNum = (int)(Math.random() * 101);
+		System.out.println(rNum);
 		
 		
 	}
