@@ -86,8 +86,28 @@ public class Exp {
 		System.out.println(Math.random());
 		int rNum = (int)(Math.random() * 101);
 		System.out.println(rNum);
-		
-		
-	}
-
-}
+		if (56 > 89); {
+		 System.out.println("56 is greater tha 89");
+		} 
+		if (67 > 93); {
+			System.out.println("wyw bro why");
+		int day = 2;
+		switch (day) {
+		case 1:  
+			System.out.println("Monday");
+			break;
+		case 2:
+			System.out.println("Tuesday");
+			break; }
+			int i = 0;
+		while (i < 3) {
+			System.out.println(i);
+			i++;
+		for (int h = 0; h < 5; h++) {
+			System.out.println(h);
+		}
+		}
+		}
+		}	
+		}
+	
