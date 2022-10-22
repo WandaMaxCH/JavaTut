@@ -71,7 +71,7 @@ public class Exp {
 		System.out.println("length of text is: " + text.length());
 		String txt = "ello 'how' you do???";
 		System.out.println(txt.indexOf("how"));
-		String firstName =  "Johny";
+		String firstName = "Johny";
 		String lastName = "Depp";
 		System.out.println(firstName + " " + lastName);
 		System.out.println(firstName.concat(lastName));
@@ -84,30 +84,34 @@ public class Exp {
 		System.out.println(Math.max(49, 30));
 		System.out.println(Math.abs(-8.6));
 		System.out.println(Math.random());
-		int rNum = (int)(Math.random() * 101);
+		int rNum = (int) (Math.random() * 101);
 		System.out.println(rNum);
-		if (56 > 89); {
-		 System.out.println("56 is greater tha 89");
-		} 
-		if (67 > 93); {
+		if (56 < 89) {
+			System.out.println("56 is greater tha 89");
+		}
+		if (67 < 93) {
 			System.out.println("wyw bro why");
-		int day = 2;
-		switch (day) {
-		case 1:  
-			System.out.println("Monday");
-			break;
-		case 2:
-			System.out.println("Tuesday");
-			break; }
+			int day = 2;
+			switch (day) {
+			case 1:
+				System.out.println("Monday");
+				break;
+			case 2:
+				System.out.println("Tuesday");
+				break;
+			}
 			int i = 0;
-		while (i < 3) {
-			System.out.println(i);
-			i++;
-		for (int h = 0; h < 5; h++) {
-			System.out.println(h);
+			String myName = "Elena";
+			while (myName == "Elena") {
+				System.out.println(i);
+				i++;
+				for (int h = 0; h < 5; h++) {
+					System.out.println(h);
+				}
+				if (i > 6) {
+					myName = "Eva";
+				}
+			}
 		}
-		}
-		}
-		}	
-		}
-	
+	}
+}
